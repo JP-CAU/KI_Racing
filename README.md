@@ -53,4 +53,4 @@ PTW 2022 Team KI_Racing
     - Broschüre mit Information zurechtstellen
       - Informationen für Datenschutz und ähnliches 
       - Selbsteffizienz 
-      - Zeiteffiziens
+      - Zeiteffizienz
