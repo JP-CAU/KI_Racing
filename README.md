@@ -18,7 +18,7 @@ PTW 2022 Team KI_Racing
 
 ## Antworten
 
- *1. Antwort ( Weiblich, 50 Jahre)*
+ **1. Antwort ( Weiblich, 50 Jahre)**
   - Hast du schon Kontakt mit KI gehabt?
     - Ja.
   - Kannst du ein Besipiel aus deinen Alltag nennen?
@@ -31,7 +31,7 @@ PTW 2022 Team KI_Racing
     - Sehr gering 
   
 
-*2. Antwort (Männlich 3x, 20-28)*
+**2. Antwort (Männlich 3x, 20-28)**
   - Hast du schon Kontakt mit KI gehabt?
     - Ja 
     - ja 
