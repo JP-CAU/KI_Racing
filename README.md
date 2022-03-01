@@ -13,7 +13,6 @@ PTW 2022 Team KI_Racing
   - 
 - Glaubst du, dass KI in Zukunft eine wichtige Rolle spielen wird?
   -  
-- Tips 
 
 
 ## Antworten
